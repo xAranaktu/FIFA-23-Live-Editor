@@ -1,0 +1,5 @@
+v23.1.0.0:
+    - Update for FIFA 23 includes:
+        - Legacy File Browser & option to modify them
+        - Database Editor 
+        - Players & Basic Players Editor
