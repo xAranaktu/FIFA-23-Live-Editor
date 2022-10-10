@@ -12,3 +12,11 @@ You are using the tool at your own risk.
 - If you are scared of being banned then don't use the tool (at least for a while until, situation will clarify)
 - This tool doesn't work online. You won't be able to connect with EA servers while using it. This is intended, and won't be "fixed".
 - I can't guarantee for how long the tool will be working. EA may update the game at any time and since then it may be not possible to update the Live Editor to make it compatible with latest game update.
+
+***
+
+![](https://i.imgur.com/W6lPg65.jpeg)
+![](https://i.imgur.com/o1naouS.png)
+![](https://i.imgur.com/0grWO3A.png)
+![](https://i.imgur.com/4JGPfWK.png)
+![](https://i.imgur.com/pwfIyfs.png)
