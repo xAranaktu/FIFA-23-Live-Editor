@@ -1,6 +1,8 @@
 ### Welcome to the FIFA 23 Live Editor!
 
 - [Changes in latest version of the tool](https://raw.githubusercontent.com/xAranaktu/FIFA-23-Live-Editor/main/changelog.txt)
+- [FIFA 23 Live Editor & Cheat Table Development Board](https://bit.ly/F23-LE-CT-DEV-BOARD)
+- [FIFA 23 Live Editor & Cheat Table Release Schedule](https://bit.ly/F23-Projects-Release-Schedule)
 - Check [WIKI](https://github.com/xAranaktu/FIFA-23-Live-Editor/wiki) for Guides and Tutorials
 
 ### Read Me Before You Pledge or Buy The Game
