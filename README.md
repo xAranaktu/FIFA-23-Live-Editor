@@ -17,6 +17,13 @@ You are using the tool at your own risk.
 
 ***
 
+If you want to download the tool then DONT CLONE THE REPO...
+Get it from releases:
+
+![](https://i.imgur.com/ocPeJiV.png)
+
+***
+
 ![](https://i.imgur.com/W6lPg65.jpeg)
 ![](https://i.imgur.com/o1naouS.png)
 ![](https://i.imgur.com/0grWO3A.png)
