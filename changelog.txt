@@ -1,3 +1,11 @@
+v23.1.0.2:
+    - Fixed d-pad input lag
+    - Launcher improvements:
+        - Added option to auto close launcher after dll injection
+        - Added error message if EA Anticheat detected
+        - Added check for non-English characters in live editor & game path
+        - Auto edit installerdata.xml (still requires to clear cache on EA App tho)
+
 v23.1.0.1:
     - Works with Title Update 2
     - Added placeholders for missing accessorycolourcodes
