@@ -1,3 +1,7 @@
+v23.1.0.4:
+    - Support for Trial game version
+    - Support for command line arguments
+
 v23.1.0.3:
     - Launcher improvements:
         - Adde fake EAAntiCheat launcher. No more installerdata editing, no more clearing cache
