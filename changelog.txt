@@ -1,3 +1,11 @@
+v23.1.0.6:
+    - Added:
+        - New launcher icon
+        - Option to import miniface
+    - Fixed:
+        - Adding/Removing player injuries
+        - Editing player performance bonus, wage, form & morale
+
 v23.1.0.5:
     - Chants are now disabled by default as workaround for the robotic sound issue. Can be enabled back in Settings->Other.
     - Added:
