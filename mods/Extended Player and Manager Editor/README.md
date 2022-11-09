@@ -49,4 +49,4 @@ There is tattoo tab also in players editor, but for 99% it won't work.
 4. Enter Player/Manager Edit in-game.
 ```
 
-https://i.imgur.com/vOQdSxn.jpeg
+![](https://i.imgur.com/vOQdSxn.jpeg)
