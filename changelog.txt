@@ -1,3 +1,11 @@
+v23.1.0.7:
+    - Added:
+        - Option to transfer players
+        - Option to loan players
+        - Option to terminate loan
+    - Fixed:
+        - Adding & Removing players from transfer & loan lists
+
 v23.1.0.6:
     - Added:
         - New launcher icon
@@ -5,6 +13,7 @@ v23.1.0.6:
     - Fixed:
         - Adding/Removing player injuries
         - Editing player performance bonus, wage, form & morale
+
 
 v23.1.0.5:
     - Chants are now disabled by default as workaround for the robotic sound issue. Can be enabled back in Settings->Other.
