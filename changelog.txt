@@ -1,3 +1,8 @@
+v23.1.0.9:
+    - Launcher:
+        - Fixed editing injection delay when using auto inject
+        - Increased default injection delay from 300ms to 3000ms
+
 v23.1.0.8:
     - Works with Title Update 4
     - UI Changes:
