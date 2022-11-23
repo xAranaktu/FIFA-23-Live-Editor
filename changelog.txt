@@ -1,3 +1,9 @@
+v23.1.1.0:
+    - Added:
+        - Lua Engine
+    - Fixed:
+        - Editing player jersey number
+
 v23.1.0.9:
     - Launcher:
         - Fixed editing injection delay when using auto inject
