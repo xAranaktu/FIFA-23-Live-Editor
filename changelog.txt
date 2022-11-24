@@ -1,3 +1,10 @@
+v23.1.1.1:
+    - Fixed:
+        - Filtering values in the edit option popup
+    - Launcher:
+        - Fixed auto inject delay
+        - Fixed "Error access denied" when starting the game manually
+
 v23.1.1.0:
     - Added:
         - Lua Engine
