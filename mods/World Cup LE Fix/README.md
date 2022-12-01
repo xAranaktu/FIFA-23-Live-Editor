@@ -25,3 +25,5 @@ Allows you to enter the world cup mode while playing with the live editor
 3. Run the game & Live Editor
 
 ```
+
+![](https://i.imgur.com/7agnhy7.jpeg)
