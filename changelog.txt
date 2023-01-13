@@ -1,3 +1,8 @@
+v23.1.1.6:
+    - Works with Title Update 6
+    - Added 2 new traits to players editor, First Time Shots & Round the Keeper (thanks tokke001)
+    - Added Player OVR column in Transfer History list
+
 v23.1.1.5:
     - Added "Transfer History" with option to undo unwanted transfers.
 
