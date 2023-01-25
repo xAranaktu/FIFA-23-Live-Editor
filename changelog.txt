@@ -1,3 +1,8 @@
+v23.1.1.7:
+    - Added to Teams Editor:
+        - Transfer Bans
+        - Formation Editor
+
 v23.1.1.6:
     - Works with Title Update 6
     - Added 2 new traits to players editor, First Time Shots & Round the Keeper (thanks tokke001)
