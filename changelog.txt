@@ -1,3 +1,8 @@
+v23.1.1.9:
+    - Added to Teams Editor:
+        - Stadium
+        - Kits
+
 v23.1.1.8:
     - Added Fixtures to Teams Editor (Match-fixing & Rescheduling Games)
     - Fixed caching offsets, minor game updates shouldn't break the tool forcing you to redownload anymore.
