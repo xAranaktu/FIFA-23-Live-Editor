@@ -1,3 +1,7 @@
+v23.1.2.0:
+    - It's possible now to define custom score for favourite and disliked teams.
+    - Added advanced filters for players and teams.
+
 v23.1.1.9:
     - Added to Teams Editor:
         - Stadium
