@@ -1,3 +1,7 @@
+v23.1.2.2:
+    - Fixed game crash that were occurring on slower machines while waiting for game window.
+    - Changed default injection delay to 100ms
+
 v23.1.2.1:
     - Added "Misc Features" with:
         - Unsackable
