@@ -1,3 +1,9 @@
+v23.1.2.4:
+    - You can now perform search by name or id by clicking "Enter" key, instead of mouse clicking the magnifier icon.
+    - Fixed problems with Live Editor Mods Directory (hopefully for good)
+    - Changed default directory for mods and other LE data from "<YOUR_GAME_INSTALLATION_DIR>\LiveEditorMods" to "C:\FIFA 23 Live Editor"
+    - config.json is now stored in "C:\FIFA 23 Live Editor" instead of the LE folder to keep your settings even if you update the tool.
+
 v23.1.2.3:
     - Works with Title Update 10
 
