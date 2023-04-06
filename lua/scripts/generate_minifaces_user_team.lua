@@ -5,7 +5,7 @@
 if not IsInCM() then return end
 
 -- Path is relative to the game installation directory
-PlayerCaptureSetOutputDirectory("LiveEditorMods\\root\\Legacy\\data\\ui\\imgAssets\\heads")
+PlayerCaptureSetOutputDirectory("<default>")
 
 -- 0 - Head and shoulders
 -- 1 - Head
