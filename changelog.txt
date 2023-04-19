@@ -1,3 +1,8 @@
+v23.1.2.5:
+    - Live Editor settings can now also be changed from the launcher.
+    - Added "locale.ini" editor in the launcher.
+    - Added option allowing for player name change in player editor.
+
 v23.1.2.4:
     - You can now perform search by name or id by clicking "Enter" key, instead of mouse clicking the magnifier icon.
     - Fixed problems with Live Editor Mods Directory (hopefully for good)
