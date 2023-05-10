@@ -1,3 +1,16 @@
+v23.1.2.6:
+    - Works with Title Update 12
+    - Added to Players Editor:
+        - Other -> Team selection bias
+        - Other -> Team selection bias position
+    - Added to Formation Editor:
+        - Offense -> Build Up Play
+        - Offense -> Chance Creation
+        - Freeze Lineup
+    - Removed from Formation Editor:
+        - Offense -> Offensive Style (seems to be no longer in use by FIFA 23)
+    - Live Editor will now update cached formations in career mode when you change formation in Formation Editor.
+
 v23.1.2.5:
     - Live Editor settings can now also be changed from the launcher.
     - Added "locale.ini" editor in the launcher.
