@@ -1,3 +1,15 @@
+v23.1.2.7:
+    - Updated LUA from `5.3.4 (32 bit)` to `5.4.6 (x64)`
+    - Locale.ini window is now hidden by default to reduce the false reports about bug with "key file not found"
+    - In settings you can now define where your game is installed (to fix launcher error code 2)
+    - Added: 
+        - "Reveal Player data" in "Misc Features"
+        - "LiveEditorClearRegistry.reg" file to the live editor folder. (it clears windows registry from Live Editor related keys)
+        - Option to generate job offer in manager career mode from any club/national team (you can find it in team editor).
+    - Fixed:
+        - Lacking name of the created club
+        - Players not appearing in their new club after manual transfer
+
 v23.1.2.6:
     - Works with Title Update 12
     - Added to Players Editor:
