@@ -1,3 +1,9 @@
+v23.1.2.8:
+    - Added to "Misc Features" -> "Gameplay" -> "Perfect Timed Shot"
+    - Changed the way that Live Editor adds players to teams, this should solve the issue with player not appearing in team after promotion from YA, or transfer.
+    - Fixed game crash caused by created job offer.
+    - Fixed transfer bans not being saved properly.
+
 v23.1.2.7:
     - Updated LUA from `5.3.4 (32 bit)` to `5.4.6 (x64)`
     - Locale.ini window is now hidden by default to reduce the false reports about bug with "key file not found"
