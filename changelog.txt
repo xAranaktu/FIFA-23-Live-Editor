@@ -1,3 +1,7 @@
+v23.1.2.9:
+    - Works with Title Update 14
+    - Fixed bug causing unability to change directiories in settings
+
 v23.1.2.8:
     - Added to "Misc Features" -> "Gameplay" -> "Perfect Timed Shot"
     - Changed the way that Live Editor adds players to teams, this should solve the issue with player not appearing in team after promotion from YA, or transfer.
