@@ -1,3 +1,6 @@
+v23.1.3.1:
+    - Works with Title Update 14.1 
+
 v23.1.3.0:
     - Restored previous version of the launcher, so the fake EAAC should be copied properly when you run the game via MM
 
