@@ -10,7 +10,7 @@ IT DOESN'T GIVE YOU 99 LEVEL...
 
 **Edited files:**
 ```
-    - root\Legacy\dlc\dlc_FootballCompEng\dlc\FootballCompEng\data\PlayerGrowth\player_growth.json
+    - dlc\dlc_FootballCompEng\dlc\FootballCompEng\data\PlayerGrowth\player_growth.json
 ```
 
 **Changelog:**
@@ -20,9 +20,9 @@ IT DOESN'T GIVE YOU 99 LEVEL...
 **How to install:**
 ```
 1. Unzip archive
-2. Move the LiveEditorMods folder to root game directory (replace files if needed) <https://i.imgur.com/xsGvlGi.png>
+2. Move the root folder to C:\FIFA 23 Live Editor\mods (replace files if needed) <https://i.imgur.com/8BOzvnu.png>
 3. Run the game & Live Editor
-4. Load Player Career Mode
 ```
 
+![](https://i.imgur.com/8BOzvnu.png)
 ![](https://i.imgur.com/7puQBqY.png)
