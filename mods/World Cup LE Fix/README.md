@@ -3,6 +3,7 @@
 Allows you to enter the world cup mode while playing with the live editor
 
 **Mod Version**: 1.1
+
 **Author**: FIFER (?)
 
 
@@ -28,3 +29,6 @@ Allows you to enter the world cup mode while playing with the live editor
 3. Run the game & Live Editor
 
 ```
+
+![](https://i.imgur.com/8BOzvnu.png)
+![](https://i.imgur.com/7agnhy7.jpeg)
