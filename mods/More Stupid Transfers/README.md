@@ -9,7 +9,7 @@ Basically, this "mod" should increase the transfer activity which means more tra
 
 **Edited files:**
 ```
-    - root\Legacy\dlc\dlc_FootballCompEng\dlc\FootballCompEng\data\Transfers\TransfersShortlistConfig.csv
+    - dlc\dlc_FootballCompEng\dlc\FootballCompEng\data\Transfers\TransfersShortlistConfig.csv
 ```
 
 **Changelog:**
@@ -29,7 +29,8 @@ Basically, this "mod" should increase the transfer activity which means more tra
 **How to install:**
 ```
 1. Unzip archive
-2. Move the LiveEditorMods folder to root game directory (replace files if needed) <https://i.imgur.com/xsGvlGi.png>
+2. Move the root folder to C:\FIFA 23 Live Editor\mods (replace files if needed) <https://i.imgur.com/8BOzvnu.png>
 3. Run the game & Live Editor
 
 ```
+![](https://i.imgur.com/8BOzvnu.png)
