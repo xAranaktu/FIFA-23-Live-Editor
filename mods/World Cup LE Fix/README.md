@@ -10,6 +10,7 @@ Allows you to enter the world cup mode while playing with the live editor
 **Edited files:**
 ```
     - data/ui/nav/worldCupMainMenuFlow.nav
+    - data/ui/nav/womenWorldCupMainMenuFlow.nav
 ```
 
 **Changelog:**
