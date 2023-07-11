@@ -2,7 +2,7 @@
 
 Allows you to enter the world cup mode while playing with the live editor
 
-**Mod Version**: 1.0
+**Mod Version**: 1.1
 **Author**: FIFER (?)
 
 
@@ -15,6 +15,10 @@ Allows you to enter the world cup mode while playing with the live editor
 ```
 1.0:
     - Initial release
+
+1.1:
+    - Added support for Women's World Cup
+    - Redid the edit for mens, EA updated the nav file so the old version might have some bugs, this should work better
 ```
 
 **How to install:**
@@ -24,6 +28,3 @@ Allows you to enter the world cup mode while playing with the live editor
 3. Run the game & Live Editor
 
 ```
-
-![](https://i.imgur.com/8BOzvnu.png)
-![](https://i.imgur.com/7agnhy7.jpeg)
