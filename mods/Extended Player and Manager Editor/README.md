@@ -44,9 +44,9 @@ There is tattoo tab also in players editor, but for 99% it won't work.
 **How to install:**
 ```
 1. Unzip archive
-2. Move the LiveEditorMods folder to root game directory (replace files if needed) <https://i.imgur.com/xsGvlGi.png>
+2. Move the root folder to C:\FIFA 23 Live Editor\mods (replace files if needed) <https://i.imgur.com/8BOzvnu.png>
 3. Run the game & Live Editor
-4. Enter Player/Manager Edit in-game.
 ```
 
+![](https://i.imgur.com/8BOzvnu.png)
 ![](https://i.imgur.com/vOQdSxn.jpeg)
