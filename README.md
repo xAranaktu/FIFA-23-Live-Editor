@@ -29,3 +29,5 @@ Get it from releases:
 ![](https://i.imgur.com/0grWO3A.png)
 ![](https://i.imgur.com/4JGPfWK.png)
 ![](https://i.imgur.com/pwfIyfs.png)
+
+![GitHub all releases](https://img.shields.io/github/downloads/xAranaktu/FIFA-23-Live-Editor/total) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/xAranaktu/FIFA-23-Live-Editor/latest/total)
